@@ -8,3 +8,5 @@ OKayyy so after running design rules checker, found 7 errors lets fix
 fixed all errors. PCB done.
 
 Nowww time for the case.
+
+found out I messed up wiring, back to pcb 
