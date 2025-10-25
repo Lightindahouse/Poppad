@@ -12,3 +12,6 @@ Nowww time for the case.
 found out I messed up wiring, back to pcb 
 
 forgot to edit journal but finalized everything with pcb, working on case now 
+
+
+okayy all parts of case done now time to check everything before i ship, gnona fix if i find anything. Im pretty sure i didn't journal well, but we all start somewhere!
