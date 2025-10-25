@@ -10,3 +10,5 @@ fixed all errors. PCB done.
 Nowww time for the case.
 
 found out I messed up wiring, back to pcb 
+
+forgot to edit journal but finalized everything with pcb, working on case now 
