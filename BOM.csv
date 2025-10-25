@@ -1,0 +1,10 @@
+Part,Quantity,Description,Package/Notes,Unit Price (USD),Total (USD),Source
+RP2040 Module,1,Seeed XIAO RP2040 (USB-C onboard),Through-hole header,6.00,6.00,Seeed/LCSC
+Mechanical Switch,4,MX-style key switch,Through-hole,0.35,1.40,Any
+Keycap,4,MX keycap,MX compatible,0.20,0.80,Any
+Rotary Encoder,1,EC11 encoder with push switch,Through-hole,1.20,1.20,LCSC
+RGB LED,2,SK6812 MINI-E addressable RGB,Mini 3535 SMD,0.30,0.60,LCSC
+PCB,1,Custom macropad PCB,FR4 1.6 mm,1.50,1.50,JLCPCB
+Case,1,3D printed case,PLA/ABS,2.00,2.00,Self-made
+,,,
+,,Estimated Total,13.50,,
