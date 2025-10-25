@@ -21,4 +21,11 @@ I wanted to strengthen my skills in kicad and fusion, as I am used to getting ca
 4. put them all together.
 5. boom!
 
+## pictures
 
+<img width="1056" height="483" alt="image" src="https://github.com/user-attachments/assets/bc26abdd-a9d4-4cda-ba6c-b942016c00e8" />
+
+
+<img width="763" height="748" alt="image" src="https://github.com/user-attachments/assets/75d10265-3a61-4c8c-9f98-0f5defbd09cf" />
+
+<img width="667" height="697" alt="image" src="https://github.com/user-attachments/assets/74eb4644-7af7-4a12-a4a9-c735c4fa2fee" />
